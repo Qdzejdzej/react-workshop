@@ -1,0 +1,22 @@
+section {
+  width: 900px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.favourite {
+  text-align: center;
+  font-weight: bold;
+}
+
+.favourite p {
+  color: lime;
+}
+
+.favourite h4 {
+  color: red;
+}
+
+div {
+  margin-bottom: 10px
+}
